@@ -23,6 +23,8 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 8. Ef það kemur samþykki frá öðrum þá sameinar **höfundur** greinina við main (merge), annars uppfærir og bíður eftir samþykki aftur
 
 ## Hópur
+Dagbjört og Sigurður
+
 Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir     
 Setjið gjarnan upp sem töflu
 ---
