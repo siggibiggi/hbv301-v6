@@ -5,7 +5,7 @@
 FR-XX
 
 **Upprunaleg krafa:**  
-[Breyttu linknum]([https://github.com/...](https://github.com/siggibiggi/HBV301/issues/)
+[Breyttu linknum](https://github.com/siggibiggi/HBV301/issues/)
 Upprunalega lýsingin úr verkefni 1 kemur hér
 
 **Greining á gæðum upprunalegu kröfunnar:**  
