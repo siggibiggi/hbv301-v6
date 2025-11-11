@@ -9,13 +9,15 @@ FR-XX
 Upprunalega lýsingin úr verkefni 1 kemur hér
 
 **Greining á gæðum upprunalegu kröfunnar:**  
-- [] Sniðmát eftir Alexander & Stevens
-- [] ótvíræð
-- [] Lýstu hegðun kerfisins, ekki hönnun
-- [] Notar "skal"/"verður":
-- [] Ekki tvær kröfur í einu
-- [] Ekki óljóst hvenær krafan gerist
-- [] Ekki óljóst hver notandi er
+
+- [ ] Sniðmát eftir Alexander & Stevens
+- [ ] ótvíræð
+- [ ] Lýsir hegðun kerfisins, ekki hönnun
+- [ ] Notar "skal"/"verður":
+- [ ] Ekki tvær kröfur í einu
+- [ ] Ekki óljóst hvenær krafan gerist
+- [ ] Ekki óljóst hver notandi er
+
 
 **Endurbætt útgáfa:**  
 ...
