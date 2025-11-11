@@ -1,18 +1,21 @@
-# FR-01 – Endurbætt krafa
+# FR-XX – Endurbætt krafa
 # Hver krafa í sér skrá 
 
 **Auðkenni**
-FR-01 
+FR-XX
 
 **Upprunaleg krafa:**  
-[Sjá Issue #? í Verkefni 1 Repository](https://github.com/...)
+[Breyttu linknum]([https://github.com/...](https://github.com/siggibiggi/HBV301/issues/)
 Upprunalega lýsingin úr verkefni 1 kemur hér
 
 **Greining á gæðum upprunalegu kröfunnar:**  
-- Ótvíræð:  
-- Notar "skal":
-- Samkvæmt sniðmáti:
-- ... - gerið ykkar eigin lista 
+- Sniðmát eftir Alexander & Stevens
+- ótvíræð
+- Lýstu hegðun kerfisins, ekki hönnun
+- Notar "skal"/"verður":
+- Ekki tvær kröfur í einu
+- Ekki óljóst hvenær krafan gerist
+- Ekki óljóst hver notandi er
 
 **Endurbætt útgáfa:**  
 ...
