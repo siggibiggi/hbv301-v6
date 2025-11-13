@@ -29,7 +29,15 @@ Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir
 Setjið gjarnan upp sem töflu
 ---
 
+# Samantekt á rýni (Pull Request Comments)
+
+| Krafa | Rýnir | PR Athugasemdir | Höfundur samþykkir  |
+|--------|--------|-----------------|---------------------|
+| FR-01 | |                 |                     |
+| FR-02 | |                 |                     |
+
+
 ## Tenglar
 
-Verkefni 1 repository  
+[Verkefni 1](https://github.com/siggibiggi/HBV301)
 
