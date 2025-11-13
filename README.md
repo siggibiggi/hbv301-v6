@@ -25,16 +25,16 @@ hvort eitthvað má bæta í hverju skjali og hvað er vel gert. Verið fagleg, 
 ## Hópur
 Dagbjört og Sigurður
 
-Fyllið út nöfn, hlutverk og hvaða kröfur hver endurskrifar og rýnir     
-Setjið gjarnan upp sem töflu
----
-
-# Samantekt á rýni (Pull Request Comments)
-
-| Krafa | Rýnir | PR Athugasemdir | Höfundur samþykkir  |
+| Krafa | Verk-1 | Höfundur | Rýnir  |
 |--------|--------|-----------------|---------------------|
-| FR-01 | |                 |                     |
-| FR-02 | |                 |                     |
+| FR-01 | # | Dagbjört | Sigurður |
+| FR-02 | # | Dagbjört | Sigurður |
+| FR-03 | # | Dagbjört | Sigurður |
+| FR-04 | # | Dagbjört | Sigurður |
+| FR-05 | # | Sigurður | Dagbjört |
+| FR-06 | # | Sigurður | Dagbjört |
+| FR-07 | # | Sigurður | Dagbjört |
+| FR-08 | # | Sigurður | Dagbjört |
 
 
 ## Tenglar
