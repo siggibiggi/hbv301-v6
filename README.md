@@ -27,7 +27,7 @@ Dagbjört og Sigurður
 
 | Krafa | Verk-1 | Höfundur | Rýnir  |
 |--------|--------|-----------------|---------------------|
-| FR-01 | # | Dagbjört | Sigurður |
+| [FR-01](requirements/FR-01.md) | [42](https://github.com/siggibiggi/HBV301/issues/42) | Dagbjört | Sigurður |
 | FR-02 | # | Dagbjört | Sigurður |
 | FR-03 | # | Dagbjört | Sigurður |
 | FR-04 | # | Dagbjört | Sigurður |
