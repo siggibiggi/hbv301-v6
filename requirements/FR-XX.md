@@ -15,8 +15,8 @@ Upprunalega lýsingin úr verkefni 1 kemur hér
 - [ ] Lýsir hegðun kerfisins, ekki hönnun
 - [ ] Notar "skal"/"verður":
 - [ ] Ekki tvær kröfur í einu
-- [ ] Ekki óljóst hvenær krafan gerist
-- [ ] Ekki óljóst hver notandi er
+- [ ] ljóst hvenær krafan gerist
+- [ ] ljóst hver notandi er
 
 
 **Endurbætt útgáfa:**  
