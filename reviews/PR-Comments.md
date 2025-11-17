@@ -6,7 +6,7 @@
 | FR-02 | Sigurður | Perfect | Dagbjört |
 | FR-03 | Sigurður | Allt flott, nema vantar að ýta á takkann sem orsök | Dagbjört |
 | FR-04 | Sigurður | Gott nema að þetta eru tvær kröfur. Best að hafa bara að notandi er stoppaður þegar hann reynir að deila skjá þegar það er önnur deiling í gangi | Dagbjört |
-| FR-05 | Dagbjört |                 | Sigurður |
+| FR-05 | Dagbjört | Mjög vel gert. stutt og skýr krafa | Sigurður |
 | FR-06 | Dagbjört |                 | Sigurður |
 | FR-07 | Dagbjört |                 | Sigurður |
-| FR-08 | Dagbjört |                 | Sigurður |
+| FR-08 | Dagbjört | Hvað er vel gert? <br> Mjög flott <br> Hvað má bæta? <br> Vantar nafn neðst | Sigurður |
